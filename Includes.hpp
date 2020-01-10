@@ -1,0 +1,19 @@
+#pragma once
+
+#include <iostream>
+#include <memory>
+#include <string>
+#include <array>
+#include <vector>
+#include <ctime>
+#include <cstdlib>
+#include <Windows.h>
+#include <map>
+#include <stack>
+#include <list>
+#include <cctype>
+#include <stdexcept>
+#include <cmath>
+#include <algorithm>
+#include <fstream>
+#include <sstream>
